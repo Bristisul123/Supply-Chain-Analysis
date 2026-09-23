@@ -1,4 +1,4 @@
-# 📊 Supply Chain Analysis Dashboard — Python, Pandas & Power BI
+# 📊 Supply Chain Analysis  — Python, Pandas & Power BI
 
 An end-to-end **supply chain analysis project** focused on analyzing order delivery performance, shipping delays, profitability, customer segments, product categories, and regional trends using the **DataCo Smart Supply Chain dataset**.
 
