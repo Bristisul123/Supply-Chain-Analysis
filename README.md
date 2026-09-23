@@ -6,9 +6,10 @@ The project focuses on understanding how delivery performance varies across regi
 
 ---
 
+
 ## 📊 Dashboard Preview
 
-![Supply Chain Analysis Dashboard](assets/dashboard.png)
+![Supply Chain Analysis Dashboard](dashboard.png)
 
 ---
 
